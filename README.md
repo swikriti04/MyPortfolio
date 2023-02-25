@@ -1,5 +1,5 @@
 
-A simple Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+#### A simple Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
 ![Preview](https://github.com/swikriti04/MyPortfolio1/blob/master/public/images/Landing.png)
