@@ -2,6 +2,7 @@
 #### A simple Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
+https://swikriti04.github.io/MyPortfolio/
 ![Preview](https://swikriti04.github.io/MyPortfolio/)
 
 ## How to use
