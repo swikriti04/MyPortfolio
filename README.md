@@ -3,7 +3,7 @@
 
 ## Preview
 https://swikriti04.github.io/MyPortfolio/
-![Preview](https://swikriti04.github.io/MyPortfolio/)
+![Preview](https://github.com/swikriti04/MyPortfolio/blob/main/public/images/Landing.png)
 
 ## How to use
 1. Clone/Download the repo.
